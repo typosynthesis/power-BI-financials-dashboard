@@ -101,10 +101,15 @@ A company was experiencing **declining profit margins despite rising gross sales
 
 ## 📁 Repository Structure
 ├── assets/screenshots/    # Dashboard screenshots & GIFs
+
 ├── assets/diagrams/       # Data model & architecture
+
 ├── pbix/                  # Power BI report file
+
 ├── data/                  # Source dataset (CSV)
+
 ├── docs/                  # Additional documentation
+
 └── README.md              # This file
 
 ---
