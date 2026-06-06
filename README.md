@@ -100,3 +100,23 @@ A company was experiencing **declining profit margins despite rising gross sales
 ---
 
 ## 📁 Repository Structure
+├── assets/screenshots/    # Dashboard screenshots & GIFs
+├── assets/diagrams/       # Data model & architecture
+├── pbix/                  # Power BI report file
+├── data/                  # Source dataset (CSV)
+├── docs/                  # Additional documentation
+└── README.md              # This file
+
+---
+
+## 🙋 About Me
+
+**[Your Name]** — Aspiring Data Analyst | Power BI Enthusiast
+
+📧 your.email@example.com  
+🔗 [LinkedIn](your-linkedin-url)  
+💻 [GitHub](your-github-url)
+
+---
+
+> *"This project was built as part of my data analytics portfolio to demonstrate end-to-end dashboard development — from business understanding to interactive visualization."*
