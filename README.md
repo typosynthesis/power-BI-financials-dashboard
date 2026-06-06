@@ -89,8 +89,8 @@ A company was experiencing **declining profit margins despite rising gross sales
 
 ## 🚀 How to View
 
-### Option 1: Live Demo (Power BI Service)
-🔗 [View Live Dashboard](your-powerbi-service-link-here)
+### Option 1: Static using PDF (Power BI Service)
+Download PDF file `financials_dashboard.pdf` from `/docs` folder. Open using your favorit PDF viewer, or open it using browser.
 
 ### Option 2: Download & Explore
 1. Download `financials_dashboard.pbix` from `/pbix` folder
@@ -116,11 +116,10 @@ A company was experiencing **declining profit margins despite rising gross sales
 
 ## 🙋 About Me
 
-**[Your Name]** — Aspiring Data Analyst | Power BI Enthusiast
+**Ahmad Choirudin** — Aspiring Data Analyst | Power BI Enthusiast
 
-📧 your.email@example.com  
-🔗 [LinkedIn](your-linkedin-url)  
-💻 [GitHub](your-github-url)
+📧 chayrudeen@gmail.com
+💻 [GitHub](github.com/typosynthesis)
 
 ---
 
