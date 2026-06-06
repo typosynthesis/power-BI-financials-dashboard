@@ -1,0 +1,15 @@
+# Power BI
+*.pbix.user
+*.pbix.cache
+
+# Data (if sensitive)
+# Uncomment if dataset is private
+# *.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
