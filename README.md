@@ -123,7 +123,7 @@ Download PDF file `financials_dashboard.pdf` from `/docs` folder. Open using you
 
 ## 🙋 About Me
 
-**Ahmad Choirudin** — Aspiring Data Analyst | Power BI Enthusiast
+**Ahmad Choirudin** — Aspiring Data Analyst | Data Enthusiast
 
 📧 chayrudeen@gmail.com
 💻 [GitHub](github.com/typosynthesis)
