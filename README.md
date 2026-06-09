@@ -49,7 +49,8 @@ A company was experiencing **declining profit margins despite rising gross sales
 ---
 
 ### Video Documentation
-https://github.com/user-attachments/assets/3e78a80d-97d7-4b40-a54f-8ae9bcdc0d75
+![Watch Video](https://github.com/user-attachments/assets/3e78a80d-97d7-4b40-a54f-8ae9bcdc0d75)
+
 Show how the dashboard interact with the user. These interactive dashboards has been equipped by custom tooltips that can answering various question that related to the data.
 
 ---
